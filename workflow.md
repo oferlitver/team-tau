@@ -6,5 +6,7 @@
 - [ ] Outliers
 - [ ] Correlations
 - [ ] Visualizations :hamster:
+- [ ] Scaling
+- [ ] balanced data?
 ## Model selection
 - [ ] Cross validation (LOO, 10cv...) :sunny:
